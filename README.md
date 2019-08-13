@@ -8,6 +8,7 @@ For more Awesome ARK projects, visit [Awesome-ARK](https://github.com/Guppster/a
 -   [Documentation & Tutorials](#documentation-and-tutorials)
 -   [Core Plugins](#ark-core-plugins)
 -   [Hardware Demos](#hardware-demos)
+-   [Projects](#projects)
 -   [SDK's](#sdks)
 -   [Libraries](#libraries)
 
@@ -33,6 +34,11 @@ _ARK IoT Hardware Demos and 'Proof of Concepts'._
 -   [ARK IoT LED (PhillipJacobsen)](https://github.com/PhillipJacobsen/Ark_IOT_LED) - This projects runs on an ESP8266 or ESP32 microcontroller and allows you to control LEDs by sending a transaction to a Ark Bridgechain.
 -   [ARK NODE-ifier (sleepdefic1t)](https://github.com/PhillipJacobsenArk-NODEifier) - A simple template for making your own Ark Delegate Node notifier. [_*outdated_]
 -   [ARK Vend (PhillipJacobsen)](https://github.com/PhillipJacobsen/Ark_Vend) - This projects illustrates a vending machine that accepts Ark Cryptocurrency for payment..
+
+## Projects
+_ARK IoT Projects_
+
+-   [ArkPromo](https://arkcommunity.fund/proposal/arkpromo-a-loyalty-program-on-the-blockchain-1) - ArkPromo enables retailers to distribute points / savings stamps (as a token) to customers on a blockchain built with Ark’s Ecosystem.
 
 ## SDK's
 _ARK IoT Software Development Kits._
